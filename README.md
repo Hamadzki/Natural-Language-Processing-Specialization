@@ -91,9 +91,3 @@ The final course covers advanced attention-based models used in modern NLP appli
   - Develop a chatbot using advanced sequence models and attention mechanisms.
 
 ---
-
-## How to Use This Repository
-
-This repository contains the code and solutions for each of the four courses mentioned above. The folder structure is organized by course and week. 
-
-### Folder Structure:

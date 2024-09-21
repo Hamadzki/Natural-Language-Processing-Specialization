@@ -15,6 +15,7 @@ Throughout this specialization, I developed a strong foundation in Natural Langu
 - **Attention Mechanisms**: Applied attention-based models to Neural Machine Translation, Text Summarization, and Question Answering systems.
 - **Advanced Applications**: Developed real-world NLP applications like chatbots and question-answering systems using cutting-edge models.
 
+---
 
 ## Courses in the Specialization
 
